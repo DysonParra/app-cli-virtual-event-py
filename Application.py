@@ -1,4 +1,17 @@
-# Importamos la biblioteca ctypes
+"""
+@fileoverview    {Application}
+
+@version         2.0
+
+@author          Dyson Arley Parra Tilano <dysontilano@gmail.com>
+
+@copyright       Dyson Parra
+@see             github.com/DysonParra
+
+History
+@version 1.0     Implementation done.
+@version 2.0     Documentation added.
+"""
 import ctypes
 
 # Cargamos la biblioteca virtualEvent.
